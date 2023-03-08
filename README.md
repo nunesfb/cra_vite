@@ -1,4 +1,4 @@
-# cra_vite
+# Utilizando o Vite em aplicações React
 
 <h1 align="center">
   <img alt="LogoTecEdu4All" src="http://materiaisaulas.tecedu4all.com.br/canal/logo.png" width="120px" />
